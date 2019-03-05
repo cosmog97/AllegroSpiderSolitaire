@@ -3,7 +3,7 @@ Il celebro gioco da carte Spider Solitaire sviluppato in C++ con la libreria All
 
 Progetto di Programmazione Orientata ad Oggetti
 Anno Accademico 2017 - 2018
-Corso di Laurea in Informatica - Triennale
+Corso di Laurea in Informatica - Triennale <br> </br>
 Cubo 31B - Università della Calabria (CS)
 _________________________
 
