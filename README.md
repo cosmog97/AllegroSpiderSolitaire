@@ -1,5 +1,5 @@
 # AllegroSpiderSolitaire
-Il celebro gioco da carte Spider Solitaire sviluppato in C++ con la libreria Allegro
+Il celebre gioco da carte Spider Solitaire sviluppato in C++ con la libreria Allegro
 
 Progetto di Programmazione Orientata ad Oggetti <br>
 Anno Accademico 2017 - 2018 <br>
