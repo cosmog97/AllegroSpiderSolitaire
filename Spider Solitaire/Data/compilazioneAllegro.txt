@@ -1,0 +1,5 @@
+
+g++ mainSpider.cpp -o Spider -lallegro -lallegro_dialog -lallegro_image -lallegro_audio -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_acodec
+
+sudo apt-get install -y cmake g++ freeglut3-dev libxcursor-dev libpng12-dev libjpeg-dev libfreetype6-dev libgtk2.0-dev libasound2-dev libpulse-dev libopenale-dev libflac-dev libdumb1-dev libvorbis-dev libphysfs-dev
+
