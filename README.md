@@ -1,10 +1,10 @@
 # AllegroSpiderSolitaire
 Il celebro gioco da carte Spider Solitaire sviluppato in C++ con la libreria Allegro
 
-Progetto di Programmazione Orientata ad Oggetti
-Anno Accademico 2017 - 2018
-Corso di Laurea in Informatica - Triennale <br> </br>
-Cubo 31B - Università della Calabria (CS)
+Progetto di Programmazione Orientata ad Oggetti <br>
+Anno Accademico 2017 - 2018 <br>
+Corso di Laurea in Informatica - Triennale <br>
+Cubo 31B - Università della Calabria (CS) <br>
 _________________________
 
 Per compilare il gioco, bisogna incollare sul terminale Linux la seguente stringa:
